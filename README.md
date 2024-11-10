@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/language-python-blue.svg)
+![PyTorch](https://img.shields.io/badge/framework-PyTorch-orange.svg)
+
 # PedestrianDetection
 VISION AND COGNITIVE SYSTEMS Final Projects (Powering up pedestrian segmentation with initial detection stage)
 In this work, we have experimented in the field of Semantic Segmentation. The idea is to compare the standard
